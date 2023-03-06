@@ -9,17 +9,15 @@
 }
 .wrapper{
     background: blue;
-
+    display: flex;
 }
 .menu{
     background: green;
     width: 30%;
-    float: left;
 }
 .contenido{
     background: aqua;
     width: 70%;
-    float: left;
 }
 .footer{
     background: pink;
